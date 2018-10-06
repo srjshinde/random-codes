@@ -5,7 +5,7 @@ This code has been developed on Debian Stretch and assumes that system uses LXte
 If your system  doesn't have LXterminal please install it with 'aptitude' tool.
 instead you can use other terminal also by making change in c program's command.
 
-This code makes use of standard C library i.e. unistd.h,string.h and stdlib.h hence no need to install or include any used defined library.
+This code makes use of standard C library i.e. unistd.h,string.h and stdlib.h hence no need to install or include any user defined library.
 
 test.c file contains the code and a.out contains compiled output.
 just run a.out and it will open a separate window to display the data coming form USB port.
