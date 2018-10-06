@@ -1,4 +1,4 @@
-author: rameez
+author: suraj
 date: 01 september 2018
 
 This code has been developed on Debian Stretch and assumes that system uses LXterminal as shell terminal.
